@@ -1,0 +1,5 @@
+Para que funcione el programa utilizaremos un servidor HTTP de Python llamado "SimpleHTTPServer".
+Para ello, ejecutaremos lo siguiente:
+
+  >python -m SimpleHTTPServer 8000 
+
