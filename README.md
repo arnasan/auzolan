@@ -1,4 +1,4 @@
-# auzolan
+# Auzolan
 Based on the TaskRabbit application, AuzoLan is aimed to match freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work
 
 ## Installation
